@@ -58,10 +58,10 @@ python manage.py makemigrations
 python manage.py createsuperuser
 ```
 
-运行
+运行（不了解Django的话直接激活环境运行下面的第一行命令即可）
 
 ```shell
-(searchbot) PS E:\final-project-ssskeyi\django_searchbot> python manage.py runserver
+(searchbot) PS E:\search_bot\django_searchbot> python manage.py runserver
 Watching for file changes with StatReloader
 Performing system checks...
 
