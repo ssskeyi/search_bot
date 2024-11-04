@@ -82,31 +82,31 @@ Quit the server with CTRL-BREAK.
 
 可以选择登录或者注册
 
-![](E:\Study\大三上\ycb\Web\final-project-ssskeyi\src\初始.png)
+![](\src\初始.png)
 
 在此时进行提问会弹出提示：“请先登录”
 
-![](E:\Study\大三上\ycb\Web\final-project-ssskeyi\src\请先登录.png)
+![](\src\请先登录.png)
 
 ### 注册
 
-![](E:\Study\大三上\ycb\Web\final-project-ssskeyi\src\注册.png)
+![](\src\注册.png)
 
 ### 登录
 
-![](E:\Study\大三上\ycb\Web\final-project-ssskeyi\src\登录.png)
+![](\src\登录.png)
 
 ### 登录成功
 
 会展示对应用户的历史问答记录，这些记录存储在数据库中
 
-![](E:\Study\大三上\ycb\Web\final-project-ssskeyi\src\登录成功.png)
+![](\src\登录成功.png)
 
 ### 问答
 
 调用后台agent代理进行推理，前端的提问和回答历史记录会保存到数据库中
 
-![](E:\Study\大三上\ycb\Web\final-project-ssskeyi\src\问答.png)
+![](\src\问答.png)
 
 ### 后台推理过程
 
@@ -187,14 +187,16 @@ Final Answer: 今天大连的天气为晴朗（Sunny），气温为13.2°C (55.8
 
 ### 管理员
 
-![](E:\Study\大三上\ycb\Web\final-project-ssskeyi\src\管理员.png)
+![](\src\管理员.png)
 
 ### 聊天记录存储
 
-![](E:\Study\大三上\ycb\Web\final-project-ssskeyi\src\chats.png)
+![](\src\chats.png)
 
 ### 登出
 
 会自动跳转到登录界面
 
-![](E:\Study\大三上\ycb\Web\final-project-ssskeyi\src\登出.png)
+![](\src\登出.png)
+
+注：本项目借鉴了其他开源项目代码
