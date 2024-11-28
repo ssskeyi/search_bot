@@ -24,6 +24,8 @@ conda install pip
 pip install -r requirements.txt
 ```
 
+注意：windows环境需要安装高版本的wingcc
+
 ### 准备阿里云的api key:
 
 去官网自己开，然后放到环境变量里去
